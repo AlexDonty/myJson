@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+   "itemsSliderCards":[
+      {
+         "title":"Paga tu factura",
+         "img":"https://via.placeholder.com/80",
+         "description":"Paga las facturas de tus servicios de manera rápida y sencilla",
+         "link":"pagar-factura",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Ver tu saldo y consumos",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Ir a mi claro"
+      },
+      {
+         "title":"Adquirir un nuevo servicio",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Comprar y recargar",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Comprar y recargar 2",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Paga tu factura",
+         "img":"https://via.placeholder.com/80",
+         "description":"Paga las facturas de tus servicios de manera rápida y sencilla",
+         "link":"pagar-factura",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Ver tu saldo y consumos",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Ir a mi claro"
+      },
+      {
+         "title":"Adquirir un nuevo servicio",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Comprar y recargar",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Comprar y recargar 2",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Paga tu factura",
+         "img":"https://via.placeholder.com/80",
+         "description":"Paga las facturas de tus servicios de manera rápida y sencilla",
+         "link":"pagar-factura",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Ver tu saldo y consumos",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Ir a mi claro"
+      },
+      {
+         "title":"Adquirir un nuevo servicio",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Comprar y recargar",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      },
+      {
+         "title":"Comprar y recargar 2",
+         "img":"https://via.placeholder.com/80",
+         "description":"lorem ipsum dolor algo mas",
+         "button":"Iniciar sessión"
+      }
+   ],
+   "profile": {
+    "name": "alexDumpty"
+  }
+}
